@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Мнемоникатор</string>
+    <string name="textforbutton">Convert</string>
+    <string name="textforview">Your Phrase:</string>
+</resources>
